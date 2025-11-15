@@ -1,0 +1,8 @@
+Gold Price Prediction - 
+Columns names meaning and definitions
+Date - date (MM/dd/yyyy format)
+SPX - stands for The Standard and Poor's 500 index, or simply the S&P 500. It is a stock market index used for tracking the stock performance of 500 of the largest companies listed on stock exchanges in USA
+GLD - gold price
+USO - stands for "The United States Oil Fund ® LP (USO)". It is an exchange-traded security whose shares may be purchased and sold on the NYSE Arca
+SLV - silver price
+EUR/USD - Euro to US dollar exchange ratio
